@@ -16,4 +16,9 @@ class MathSuite extends FunSuite {
 		assert(sqrt(8) == 2, "integer value sqrt")
 		assert(sqrt(8D) == 2.82842712474619, "double value sqrt")
 	}
+
+	test("pow") {
+		assert(pow(1, 10) == 1)
+		assert(pow(2, 5) == 32)
+	}
 }

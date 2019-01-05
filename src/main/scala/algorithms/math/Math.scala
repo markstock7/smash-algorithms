@@ -35,4 +35,25 @@ object Math {
 		while(x * x > n) x = (n / x + x) /2
 		x
 	}
+
+	/**
+		* https://leetcode.com/problems/powx-n/
+		* https://algocasts.io/episodes/Z5mzJmdn
+		* @param x
+		* @param n
+		* @return
+		*/
+	def pow(x: Double, n: Int): Double = {
+		var result = 1D
+		var base = x
+		var N = math.abs(n.asInstanceOf[Long])
+
+		while (N != 0) {
+			if ((N & 1) == 1) result = result * base
+			base = base * base
+			N >>= 1
+		}
+
+		if (n < 0) 1 / result else result
+	}
 }
