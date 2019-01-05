@@ -18,9 +18,9 @@ object Math {
 	}
 
 	def sqrt(n: Int): Int = {
-		var x = n
+		var x: Long  = n
 		while(x * x > n) x = (n / x + x) /2
-		x
+		x.toInt
 	}
 
 	/**
