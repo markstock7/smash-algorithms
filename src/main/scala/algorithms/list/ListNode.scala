@@ -8,7 +8,6 @@ case class ListNode(var x: Int, var next: ListNode = null) {
       s = s + "," + end.x
       end = end.next
     }
-    println("s is", s)
     s
   }
 }

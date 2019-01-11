@@ -25,4 +25,29 @@ object RotateArray {
 			}
 		}
 	}
+	
+
+	private def reverse(nums: Array[Int], i: Int, j: Int): Unit = {
+		var _i = i
+		var _j = j
+		while (_i < _j) {
+			val tmp = nums(_i)
+			nums(_i) = nums(_j)
+			nums(_j) = tmp
+			_i = _i + 1
+			_j = _j - 1
+		}
+	}
+	
+	/**
+		* https://leetcode.com/problems/rotate-array/
+		*/
+	def rotate(nums: Array[Int], k: Int): Unit = {
+		if (nums.isEmpty || k <= 0) return
+		val n: Int = nums.length
+		val m: Int = k % n
+		reverse(nums, 0, n - 1)
+		reverse(nums, 0, m - 1)
+		reverse(nums, m, n - 1)
+	}
 }
