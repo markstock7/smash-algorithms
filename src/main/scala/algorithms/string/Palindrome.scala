@@ -5,8 +5,8 @@ import utils.StringUtil._
 object Palindrome {
 
 	/**
-		* 回文字符串判断
 		* https://algocasts.io/episodes/4rpaqpZb
+		* https://leetcode.com/problems/valid-palindrome/
 		*/
 	def isPalindrome(s: String): Boolean = {
 		if (s.isEmpty) return true

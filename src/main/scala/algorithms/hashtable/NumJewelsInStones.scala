@@ -1,9 +1,12 @@
 package algorithms.hashtable
 
-/**
-  * https://leetcode.com/problems/jewels-and-stones/submissions/
-  */
 object NumJewelsInStones {
+  /**
+    * https://leetcode.com/problems/jewels-and-stones/
+    * @param J
+    * @param S
+    * @return
+    */
   def solution(J: String, S: String): Int = {
     if (J == null || S == null || (J.length == 0) || (S.length == 0)) return 0
     val d = new Array[Boolean](256)

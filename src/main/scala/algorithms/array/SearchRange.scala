@@ -1,5 +1,8 @@
 package algorithms.array
 
+/**
+  * https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+  */
 object SearchRange {
   
   private def binarySearchLastOne(nums: Array[Int], target: Int): Int = {

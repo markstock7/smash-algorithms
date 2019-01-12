@@ -25,6 +25,7 @@ object Math {
 
 	/**
 		* Using Newton's method
+		* https://leetcode.com/problems/sqrtx/
 		* https://blog.csdn.net/ccnt_2012/article/details/81837154
 		*
 		* @param n

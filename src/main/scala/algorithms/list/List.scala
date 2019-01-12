@@ -32,8 +32,6 @@ object List {
   
   /**
     * https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-    * 1 -> 2 -> [3] -> (4) -> 5 -> 6  n = 3
-    * 1 -> 2 -> 3 -> 4 -> 5 n = 3
     * @param head
     * @param n
     * @return
@@ -61,6 +59,11 @@ object List {
     head
   }
   
+  /**
+    * https://leetcode.com/problems/reverse-linked-list/
+    * @param head
+    * @return
+    */
   def reverse(head: ListNode): ListNode = {
     var p: ListNode = head
     var q: ListNode = null

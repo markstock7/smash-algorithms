@@ -1,8 +1,13 @@
 package algorithms.backtracking
 
-// https://leetcode.com/problems/combination-sum
 object CombinationSum {
   
+  /**
+    * https://leetcode.com/problems/combination-sum
+    * @param candidates
+    * @param target
+    * @return
+    */
   def solution(candidates: Array[Int], target: Int): List[List[Int]] = {
     def combAcc(nums: List[Int], target: Int, acc: List[Int]): List[List[Int]] =
       if (target < 0) Nil
