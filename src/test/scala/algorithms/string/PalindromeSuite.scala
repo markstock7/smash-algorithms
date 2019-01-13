@@ -11,5 +11,9 @@ class PalindromeSuite extends FunSuite {
 
 	test("isPalindrome") {
 		assert(isPalindrome(" race a E-car "), "")
+		assert(!isPalindrome(123))
+		assert(isPalindrome(121))
+		assert(!isPalindrome(-121))
+		assert(isPalindrome(0))
 	}
 }

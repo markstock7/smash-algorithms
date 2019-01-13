@@ -1,8 +1,9 @@
 # Daily Algorithms Practice
 
-## Total Finished: 18
+## Total Finished: 19
 
 ## Recent Update
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 ## Table of Contents
 ##### Array 
@@ -35,5 +36,6 @@
 ##### Stack
 ##### String
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 ##### Tree
 ##### Trie

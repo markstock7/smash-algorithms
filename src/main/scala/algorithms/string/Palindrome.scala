@@ -22,4 +22,6 @@ object Palindrome {
 
 		true
 	}
+	
+	def isPalindrome(s: Int): Boolean = if (s < 0) false else isPalindrome(s.toString)
 }
