@@ -23,5 +23,38 @@ object Palindrome {
 		true
 	}
 	
+	/**
+		* https://leetcode.com/problems/palindrome-number/
+		* @param s
+		* @return
+		*/
 	def isPalindrome(s: Int): Boolean = if (s < 0) false else isPalindrome(s.toString)
+	
+	/**
+		* https://leetcode.com/problems/palindromic-substrings/
+		* @param s
+		* @return
+		*/
+	def countSubPalindrome(s: String): Int = {
+		if (s.isEmpty) return 0
+		
+		var count = 0
+		
+		def expand(left: Int, right: Int): Unit = {
+			var _left = left
+			var _right = right
+			while(_left >= 0 && _right < s.length && s.charAt(_left) == s.charAt(_right)) {
+				count += 1
+				_left += -1
+				_right += 1
+			}
+		}
+		
+		for (i <- 0 to s.length) {
+			expand(i, i)
+			expand(i, i + 1)
+		}
+		
+		count
+	}
 }

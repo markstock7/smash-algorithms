@@ -16,4 +16,11 @@ class PalindromeSuite extends FunSuite {
 		assert(!isPalindrome(-121))
 		assert(isPalindrome(0))
 	}
+	
+	test("countSubPalindrome") {
+		assert(countSubPalindrome("abc") == 3)
+		assert(countSubPalindrome("abbc") == 5)
+		assert(countSubPalindrome("acc") == 4)
+	}
+	
 }

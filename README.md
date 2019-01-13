@@ -1,9 +1,10 @@
 # Daily Algorithms Practice
 
-## Total Finished: 19
+## Total Finished: 20
 
 ## Recent Update
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
 ## Table of Contents
 ##### Array 
@@ -20,6 +21,7 @@
 - [Single Number](https://leetcode.com/problems/single-number/)
 ##### Dynamic Programming
 - [Word Break](https://leetcode.com/problems/word-break/)
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 ##### Greedy
 ##### Hashtable
 - [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)
@@ -37,5 +39,6 @@
 ##### String
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 ##### Tree
 ##### Trie
