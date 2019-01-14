@@ -1,10 +1,9 @@
 # Daily Algorithms Practice
 
-## Total Finished: 20
+## Total Finished: 21
 
-## Recent Update
-- [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+## Today Update
+- [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Table of Contents
 ##### Array 
@@ -31,6 +30,7 @@
 - [Rotate List](https://leetcode.com/problems/rotate-list/)
 - [Remove Nth node from end of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 ##### Map
 ##### Math
 - [Sqrt](https://leetcode.com/problems/sqrtx/)

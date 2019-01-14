@@ -31,4 +31,11 @@ class ListSuite extends FunSuite {
   test("reverse") {
     assert(reverse(createList).toString == "5,4,3,2,1")
   }
+  
+  test("middleNode") {
+    val head = ListNode(0, createList)
+    assert(middleNode(createList).toString == "3,4,5")
+    assert(middleNode(head).toString == "3,4,5")
+    assert(middleNode(ListNode(1, null)).toString == "1")
+  }
 }
