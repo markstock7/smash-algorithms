@@ -38,4 +38,9 @@ class ListSuite extends FunSuite {
     assert(middleNode(head).toString == "3,4,5")
     assert(middleNode(ListNode(1, null)).toString == "1")
   }
+  
+  test("remove") {
+    assert(remove(createList, 1).toString == "2,3,4,5")
+    assert(remove(createList, 5).toString == "1,2,3,4")
+  }
 }

@@ -95,4 +95,22 @@ object List {
     slow
   }
   
+  /**
+    * https://leetcode.com/problems/remove-linked-list-elements/
+    * @param head
+    * @param elem
+    * @return
+    */
+  def remove(head: ListNode, elem: Int): ListNode = {
+    val dummy = ListNode(0, head)
+    var notEqual = dummy
+    
+    while(notEqual.next != null) {
+      if (notEqual.next.elem == elem) notEqual.next = notEqual.next.next
+      else notEqual = notEqual.next
+    }
+    
+    dummy.next
+  }
+  
 }

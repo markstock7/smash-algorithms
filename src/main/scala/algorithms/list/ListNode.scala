@@ -1,11 +1,11 @@
 package algorithms.list
 
-case class ListNode(var x: Int, var next: ListNode = null) {
+case class ListNode(var elem: Int, var next: ListNode = null) {
   override def toString: String = {
-    var s = x.toString
+    var s = elem.toString
     var end = next
     while(end != null) {
-      s = s + "," + end.x
+      s = s + "," + end.elem
       end = end.next
     }
     s

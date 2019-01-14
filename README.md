@@ -4,6 +4,7 @@
 
 ## Today Update
 - [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 ## Table of Contents
 ##### Array 
@@ -31,6 +32,7 @@
 - [Remove Nth node from end of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 ##### Map
 ##### Math
 - [Sqrt](https://leetcode.com/problems/sqrtx/)
