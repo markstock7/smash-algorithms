@@ -1,6 +1,6 @@
 # Daily Algorithms Practice
 
-## Total Finished: 21
+## Total Finished: 24
 
 ## Today Update
 - [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
