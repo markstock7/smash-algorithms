@@ -113,4 +113,21 @@ object List {
     dummy.next
   }
   
+  /**
+    * https://leetcode.com/problems/intersection-of-two-linked-lists/
+    * @param p
+    * @param q
+    * @return
+    */
+  def intersection(headA: ListNode, headB: ListNode): ListNode = {
+    if (headA == null || headB == null) return null
+    var p = headA
+    var q = headB
+    while (p != q) {
+      p = if (p == null) headB else p.next
+      q = if (q == null) headA else q.next
+    }
+    p
+  }
+  
 }

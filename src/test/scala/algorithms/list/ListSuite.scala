@@ -43,4 +43,17 @@ class ListSuite extends FunSuite {
     assert(remove(createList, 1).toString == "2,3,4,5")
     assert(remove(createList, 5).toString == "1,2,3,4")
   }
+  
+  test("intersection") {
+    val l5 = ListNode(5, null)
+    val l4 = ListNode(4, l5)
+    val l3 = ListNode(3, l4)
+    val l2 = ListNode(2, l3)
+    val l1 = ListNode(1, l2)
+  
+    val l10 = ListNode(10, l3)
+    val l9 = ListNode(9, l10)
+    
+    assert(intersection(l9, l1).toString == "3,4,5")
+  }
 }

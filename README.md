@@ -5,6 +5,7 @@
 ## Today Update
 - [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ## Table of Contents
 ##### Array 
@@ -33,6 +34,7 @@
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 ##### Map
 ##### Math
 - [Sqrt](https://leetcode.com/problems/sqrtx/)
