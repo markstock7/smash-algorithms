@@ -1,11 +1,9 @@
 # Daily Algorithms Practice
 
-## Total Finished: 24
+## Total Finished: 25
 
 ## Today Update
-- [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-- [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Tow Sum](https://leetcode.com/problems/two-sum/)
 
 ## Table of Contents
 ##### Array 
@@ -14,6 +12,7 @@
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [Tow Sum](https://leetcode.com/problems/two-sum/)
 ##### Backtracking
 - [Combination Sum](https://leetcode.com/problems/combination-sum)
 ##### Bit
@@ -26,6 +25,7 @@
 ##### Greedy
 ##### Hashtable
 - [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)
+- [Tow Sum](https://leetcode.com/problems/two-sum/)
 ##### Heap
 - [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 ##### List
@@ -35,7 +35,6 @@
 - [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-##### Map
 ##### Math
 - [Sqrt](https://leetcode.com/problems/sqrtx/)
 - [Pow](https://leetcode.com/problems/powx-n/)
