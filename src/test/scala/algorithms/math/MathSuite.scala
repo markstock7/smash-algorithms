@@ -21,4 +21,11 @@ class MathSuite extends FunSuite {
 		assert(pow(1, 10) == 1)
 		assert(pow(2, 5) == 32)
 	}
+	
+	test("isUgly") {
+		assert(isUgly(45))
+		assert(!isUgly(46))
+		assert(isUgly(1))
+		assert(!isUgly(0))
+	}
 }

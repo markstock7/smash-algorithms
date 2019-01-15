@@ -1,9 +1,10 @@
 # Daily Algorithms Practice
 
-## Total Finished: 25
+## Total Finished: 26
 
 ## Today Update
 - [Tow Sum](https://leetcode.com/problems/two-sum/)
+- [Ugly Number](https://leetcode.com/problems/ugly-number/)
 
 ## Table of Contents
 ##### Array 
@@ -38,6 +39,7 @@
 ##### Math
 - [Sqrt](https://leetcode.com/problems/sqrtx/)
 - [Pow](https://leetcode.com/problems/powx-n/)
+- [Ugly Number](https://leetcode.com/problems/ugly-number/)
 ##### Stack
 ##### String
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)

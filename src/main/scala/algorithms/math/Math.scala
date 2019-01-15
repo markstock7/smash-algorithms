@@ -57,4 +57,19 @@ object Math {
 
 		if (n < 0) 1 / result else result
 	}
+	
+	/**
+		* https://leetcode.com/problems/ugly-number/
+		* @param num
+		* @return
+		*/
+	def isUgly(num: Int): Boolean = {
+		var _num = num
+		if (_num <= 0) return false
+		while (_num % 2 == 0) _num /= 2
+		while (_num % 3 == 0) _num /= 3
+		while (_num % 5 == 0) _num /= 5
+		
+		_num == 1
+	}
 }
