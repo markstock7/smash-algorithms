@@ -1,6 +1,6 @@
 # Daily Algorithms Practice
 
-## Total Finished: 27
+## Total Finished: 28
 
 ## Today Update
 - [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
