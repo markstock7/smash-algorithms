@@ -1,10 +1,10 @@
 # Daily Algorithms Practice
 
-## Total Finished: 26
+## Total Finished: 27
 
 ## Today Update
-- [Tow Sum](https://leetcode.com/problems/two-sum/)
-- [Ugly Number](https://leetcode.com/problems/ugly-number/)
+- [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
+- [Missing Number](https://leetcode.com/problems/missing-number/)
 
 ## Table of Contents
 ##### Array 
@@ -20,9 +20,11 @@
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [Single Number](https://leetcode.com/problems/single-number/)
+- [Missing Number](https://leetcode.com/problems/missing-number/)
 ##### Dynamic Programming
 - [Word Break](https://leetcode.com/problems/word-break/)
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
 ##### Greedy
 ##### Hashtable
 - [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)
