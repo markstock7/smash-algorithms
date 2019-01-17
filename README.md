@@ -3,8 +3,7 @@
 ## Total Finished: 28
 
 ## Today Update
-- [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
+- [GroupAnagrams](https://leetcode.com/problems/group-anagrams)
 
 ## Table of Contents
 ##### Array 
@@ -29,6 +28,7 @@
 ##### Hashtable
 - [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [Tow Sum](https://leetcode.com/problems/two-sum/)
+- [GroupAnagrams](https://leetcode.com/problems/group-anagrams)
 ##### Heap
 - [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 ##### List
