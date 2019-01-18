@@ -1,12 +1,13 @@
 # Daily Algorithms Practice
 
-## Total Finished: 28
+## Total Finished: 31
 
 ## Today Update
-- [GroupAnagrams](https://leetcode.com/problems/group-anagrams)
+- [Jump Game](https://leetcode.com/problems/jump-game/)
+- [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 ## Table of Contents
-##### Array 
+##### Array
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 - [Rotate Metrix](https://leetcode.com/problems/rotate-image/)
 - [Rotate Array](https://leetcode.com/problems/rotate-array/)
@@ -25,6 +26,10 @@
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
 ##### Greedy
+> Instruction&nbsp;&nbsp;&nbsp;
+[Basics of Greedy Algorithms](https://www.hackerearth.com/zh/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+- [Jump Game](https://leetcode.com/problems/jump-game/)
+- [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 ##### Hashtable
 - [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [Tow Sum](https://leetcode.com/problems/two-sum/)

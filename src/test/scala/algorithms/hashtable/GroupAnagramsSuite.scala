@@ -10,6 +10,7 @@ class GroupAnagramsSuite extends FunSuite {
   import GroupAnagrams._
   
   test("solution") {
+    val a: Int = 1
     assert(
       Helper.llUnsortedCompare(
         solution(Array("eat", "tea", "tan", "ate", "nat", "bat")),
