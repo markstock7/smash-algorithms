@@ -2,7 +2,7 @@ package algorithms.greedy
 
 
 object JumpGame {
-  
+  import scala.util.control.Breaks._
   /**
     * https://leetcode.com/problems/jump-game
     * @param nums
@@ -38,8 +38,11 @@ object JumpGame {
       if (i > max) return -1
       max = Math.max(max, i + nums(i))
       val last = Math.min(max, n - 1)
-      for (j <- last until i by -1 if d(j) == 0) {
-        d(j) = d(i) + 1
+      breakable {
+        for (j <- last until i by -1) {
+          if (d(j) != 0) break
+          d(j) = d(i) + 1
+        }
       }
     }
     -1
