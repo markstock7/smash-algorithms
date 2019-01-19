@@ -3,8 +3,7 @@
 ## Total Finished: 31
 
 ## Today Update
-- [Jump Game](https://leetcode.com/problems/jump-game/)
-- [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [Subsets](https://leetcode.com/problems/subsets)
 
 ## Table of Contents
 ##### Array
@@ -16,11 +15,13 @@
 - [Tow Sum](https://leetcode.com/problems/two-sum/)
 ##### Backtracking
 - [Combination Sum](https://leetcode.com/problems/combination-sum)
+- [Subsets](https://leetcode.com/problems/subsets)
 ##### Bit
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [Single Number](https://leetcode.com/problems/single-number/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
+- [Subsets](https://leetcode.com/problems/subsets)
 ##### Dynamic Programming
 - [Word Break](https://leetcode.com/problems/word-break/)
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
