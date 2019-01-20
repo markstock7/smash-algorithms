@@ -1,6 +1,6 @@
 # Daily Algorithms Practice
 
-## Total Finished: 31
+## Total Finished: 32
 
 ## Today Update
 - [Subsets](https://leetcode.com/problems/subsets)
