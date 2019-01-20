@@ -1,5 +1,6 @@
 # Daily Algorithms Practice
 
+[![Build Status](https://travis-ci.org/markstock7/SmashAlgorithms.svg?branch=master)](https://travis-ci.org/markstock7/SmashAlgorithms)
 [![codecov](https://codecov.io/gh/markstock7/SmashAlgorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/markstock7/SmashAlgorithms)
 ## Total Finished: 32
 
