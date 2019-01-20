@@ -2,10 +2,10 @@
 
 [![Build Status](https://travis-ci.org/markstock7/SmashAlgorithms.svg?branch=master)](https://travis-ci.org/markstock7/SmashAlgorithms)
 [![codecov](https://codecov.io/gh/markstock7/SmashAlgorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/markstock7/SmashAlgorithms)
-## Total Finished: 32
+## Total Finished: 33
 
 ## Today Update
-- [Subsets](https://leetcode.com/problems/subsets)
+- [WordSearch](https://leetcode.com/problems/word-search/)
 
 ## Table of Contents
 ##### Array
@@ -18,6 +18,7 @@
 ##### Backtracking
 - [Combination Sum](https://leetcode.com/problems/combination-sum)
 - [Subsets](https://leetcode.com/problems/subsets)
+- [WordSearch](https://leetcode.com/problems/word-search/)
 ##### Bit
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
