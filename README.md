@@ -1,5 +1,6 @@
 # Daily Algorithms Practice
 
+[![codecov](https://codecov.io/gh/markstock7/SmashAlgorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/markstock7/SmashAlgorithms)
 ## Total Finished: 32
 
 ## Today Update
