@@ -11,5 +11,5 @@ case class UndirectedGraphNode(
 }
 
 object UndirectedGraphNode {
-  def apply(label: Int) = UndirectedGraphNode(label, new util.ArrayList())
+  def apply(label: Int): UndirectedGraphNode = UndirectedGraphNode(label, new util.ArrayList())
 }
