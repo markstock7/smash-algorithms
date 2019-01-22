@@ -1,13 +1,21 @@
-# Daily Algorithms Practice
+# Smash Algorithms, Data Structure, Design Pattern Through persistent practice and learning
 
 [![Build Status](https://travis-ci.org/markstock7/SmashAlgorithms.svg?branch=master)](https://travis-ci.org/markstock7/SmashAlgorithms)
 [![codecov](https://codecov.io/gh/markstock7/SmashAlgorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/markstock7/SmashAlgorithms)
+
+*This repository contains [Scala](https://www.scala-lang.org/) based examples of many popular algorithms and data structures.*
+
+*☝ Note that this project is meant to be used for learning and researching purposes 
+only and it is **not** meant to be used for production.*
+
 ## Total Finished: 34
 
 ## Today Update
 - [Clone Grpah](https://leetcode.com/problems/clone-graph)
 
 ## Table of Contents
+##### Sorting
+- [Bubble Sort](Bubble Sort)
 ##### Array
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 - [Rotate Metrix](https://leetcode.com/problems/rotate-image/)
