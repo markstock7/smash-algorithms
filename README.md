@@ -8,10 +8,10 @@
 *☝ Note that this project is meant to be used for learning and researching purposes 
 only and it is **not** meant to be used for production.*
 
-## Total Finished: 34
+## Total Finished: 35
 
 ## Today Update
-- [Clone Grpah](https://leetcode.com/problems/clone-graph)
+- [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
 
 ## Table of Contents
 ##### Sorting
@@ -39,6 +39,7 @@ only and it is **not** meant to be used for production.*
 - [Word Break](https://leetcode.com/problems/word-break/)
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
+- [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
 ##### Greedy
 > Instruction&nbsp;&nbsp;&nbsp;
 [Basics of Greedy Algorithms](https://www.hackerearth.com/zh/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
