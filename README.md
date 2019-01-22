@@ -35,7 +35,7 @@ only and it is **not** meant to be used for production.*
 - [Single Number](https://leetcode.com/problems/single-number/)
 - [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Subsets](https://leetcode.com/problems/subsets)
-##### Dynamic Programming
+##### [Dynamic Programming](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp)
 - [Word Break](https://leetcode.com/problems/word-break/)
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
