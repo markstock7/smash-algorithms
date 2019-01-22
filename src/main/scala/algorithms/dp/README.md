@@ -1,4 +1,4 @@
-#Dynamic Programming
+# Dynamic Programming
 
 Dynamic programming is both a mathematical optimization method and a computer programming method. 
 The method was developed by Richard Bellman in the 1950s and has found applications in numerous fields, 
