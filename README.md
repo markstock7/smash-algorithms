@@ -11,7 +11,7 @@ only and it is **not** meant to be used for production.*
 ## Total Finished: 35
 
 ## Today Update
-- [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
+ * **M&nbsp;**[Decode Ways](https://leetcode.com/problems/decode-ways)
 
 ## Design Patterns
 A design pattern is a general repeatable solution to a commonly occurring problem in software design. 
@@ -55,6 +55,7 @@ It is a set of rules that precisely define a sequence of operations.
     * [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
     * [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
     * **H&nbsp;**[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
+    * **M&nbsp;**[Decode Ways](https://leetcode.com/problems/decode-ways)
 * **[Greedy](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/greedy)**
     * [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
