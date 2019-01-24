@@ -80,4 +80,6 @@ F(3) = F(1) + F(2) = 2
 
 ```
 
-![avatar](http://)
+![nthfib](https://github.com/markstock7/smash-algorithms/blob/master/asserts/algos/dp/nthfib_01.gif?raw=true)
+
+We define three variables first, second, and third. After a single iteration, we just need to return third if N > 1.
