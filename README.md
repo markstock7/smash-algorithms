@@ -51,7 +51,7 @@ It is a set of rules that precisely define a sequence of operations.
     * [Nth Ugly Number](https://leetcode.com/problems/ugly-number-ii/)
     * **H&nbsp;**[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)
     * **M&nbsp;**[Decode Ways](https://leetcode.com/problems/decode-ways)
-    * **E&nbsp;**[Nth Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+    * **E&nbsp;**[Nth Fibonacci Number](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#nth-fibonacci-number)
 * **[Greedy](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/greedy)**
     * [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
