@@ -1,7 +1,7 @@
 package algorithms.dp
 
 /**
-  * https://leetcode.com/problems/fibonacci-number/submissions/
+  * https://leetcode.com/problems/fibonacci-number
   */
 object NthFibonacci {
   // Time: O(2^N), Space: O(N)
