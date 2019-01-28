@@ -72,4 +72,29 @@ object Math {
 		
 		_num == 1
 	}
+	
+	/**
+		* https://leetcode.com/problems/number-of-digit-one/
+		* @param n
+		* @return
+		*/
+	def countDigitOne(n: Int): Int = {
+		if (n < 1) return 0
+		var count: Long = 0
+		var factor: Long = 1
+		while (n / factor != 0) {
+			var digit: Long = (n / factor) % 10
+			var  high: Long = n / (10 * factor)
+			if (digit == 0) {
+				count += high * factor
+			} else if (digit == 1) {
+				count += high * factor
+				count += (n % factor) + 1
+			} else {
+				count += (high + 1) * factor
+			}
+			factor = factor * 10
+		}
+		count.toInt
+	}
 }
