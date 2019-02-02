@@ -32,7 +32,8 @@ It is a set of rules that precisely define a sequence of operations.
     * [Rotate Array](https://leetcode.com/problems/rotate-array/)
     * [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
     * [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
-    * **E &nbsp;**[Tow Sum](https://leetcode.com/problems/two-sum/)
+    * **E &nbsp;**[Two Sum](https://leetcode.com/problems/two-sum/)
+    * **E &nbsp;**[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 * **Backtracking**
     * [Combination Sum](https://leetcode.com/problems/combination-sum)
     * [Subsets](https://leetcode.com/problems/subsets)
