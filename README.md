@@ -70,6 +70,7 @@ It is a set of rules that precisely define a sequence of operations.
     * [Middle of the linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
     * [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
     * [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+    * **M&nbsp;**[Partition List](https://leetcode.com/problems/partition-list/)
 * **Math**
     * [Sqrt](https://leetcode.com/problems/sqrtx/)
     * [Pow](https://leetcode.com/problems/powx-n/)

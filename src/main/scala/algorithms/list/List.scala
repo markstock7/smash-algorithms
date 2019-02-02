@@ -1,4 +1,5 @@
 package algorithms.list
+
 object List {
 
   /**
@@ -128,6 +129,29 @@ object List {
       q = if (q == null) headA else q.next
     }
     p
+  }
+  
+  /**
+    * https://leetcode.com/problems/partition-list/
+    * @param head
+    * @param x
+    * @return
+    */
+  def partition(head: ListNode, x: Int): ListNode = {
+    if (head == null) return null
+    val smaller = ListNode(0)
+    val greater = ListNode(0)
+    var ps = smaller
+    var pg = greater
+    var p = head
+    while (p != null) {
+      if (p.elem < x) { ps.next = p; ps = ps.next }
+      else { pg.next = p; pg = pg.next }
+      p = p.next
+    }
+    ps.next = greater.next
+    pg.next = null
+    smaller.next
   }
   
 }
