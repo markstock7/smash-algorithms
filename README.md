@@ -61,6 +61,7 @@ It is a set of rules that precisely define a sequence of operations.
     * [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/)
     * [Tow Sum](https://leetcode.com/problems/two-sum/)
     * [GroupAnagrams](https://leetcode.com/problems/group-anagrams)
+    * **H&nbsp;**[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 * **Heap**
     * [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 * **List**
