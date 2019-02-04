@@ -4,7 +4,7 @@
 
 #### Next Permutation 
 [[LeetCode]](https://leetcode.com/problems/next-permutation)
-[[Code]](/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/array/NextPermutation.scala#L11)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/array/NextPermutation.scala#L11)
 
 Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.
 
