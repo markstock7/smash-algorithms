@@ -1,8 +1,5 @@
 package algorithms.array
 
-/**
-  * https://leetcode.com/problems/next-permutation
-  */
 object NextPermutation {
   
   private def swap(nums: Array[Int], i: Int, j: Int): Unit = {
