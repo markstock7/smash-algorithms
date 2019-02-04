@@ -34,6 +34,7 @@ It is a set of rules that precisely define a sequence of operations.
     * [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
     * **E &nbsp;**[Two Sum](https://leetcode.com/problems/two-sum/)
     * **E &nbsp;**[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+    * **M &nbsp;**[Next Permutation](https://leetcode.com/problems/next-permutation/)
 * **Backtracking**
     * [Combination Sum](https://leetcode.com/problems/combination-sum)
     * [Subsets](https://leetcode.com/problems/subsets)
