@@ -1,7 +1,7 @@
 # Smash Algorithms, Data Structure, Design Pattern Through persistent practice and learning
 
-[![Build Status](https://travis-ci.org/markstock7/SmashAlgorithms.svg?branch=master)](https://travis-ci.org/markstock7/SmashAlgorithms)
-[![codecov](https://codecov.io/gh/markstock7/SmashAlgorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/markstock7/SmashAlgorithms)
+[![Build Status](https://travis-ci.org/markstock7/smash-algorithms.svg?branch=master)](https://travis-ci.org/markstock7/SmashAlgorithms)
+[![codecov](https://codecov.io/gh/markstock7/smash-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/markstock7/SmashAlgorithms)
 
 *This repository contains [Scala](https://www.scala-lang.org/) based examples of many popular algorithms and data structures.*
 
