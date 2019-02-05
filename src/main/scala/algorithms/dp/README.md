@@ -83,3 +83,26 @@ F(3) = F(1) + F(2) = 2
 ![nthfib](https://github.com/markstock7/smash-algorithms/blob/master/asserts/algos/dp/nthfib_01.gif?raw=true)
 
 We define three variables first, second, and third. After a single iteration, we just need to return third if N > 1.
+
+#### Unique Paths
+[[LeetCode]](https://leetcode.com/problems/unique-paths/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/dp/UniquePaths.scala#L4)
+
+
+A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).
+
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
+
+How many possible unique paths are there?
+
+Example :
+
+```
+Input: m = 3, n = 2
+Output: 3
+Explanation:
+From the top-left corner, there are a total of 3 ways to reach the bottom-right corner:
+1. Right -> Right -> Down
+2. Right -> Down -> Right
+3. Down -> Right -> Right
+```
