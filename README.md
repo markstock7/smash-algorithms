@@ -35,6 +35,7 @@ It is a set of rules that precisely define a sequence of operations.
     * **E &nbsp;**[Two Sum](https://leetcode.com/problems/two-sum/)
     * **E &nbsp;**[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
     * **M &nbsp;**[Next Permutation](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/array#next-permutation)
+    * **E &nbsp;**[Majority Element](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/array#majority-element)
 * **Backtracking**
     * [Combination Sum](https://leetcode.com/problems/combination-sum)
     * [Subsets](https://leetcode.com/problems/subsets)

@@ -17,5 +17,4 @@ class MergeIntervalsSuite extends FunSuite {
 		assert(solution(List.empty) ==  List.empty, "")
 		assert(solution(List(Interval(1,4), Interval(2,3))) == List(Interval(1, 4)), "")
 	}
-
 }
