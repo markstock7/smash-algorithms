@@ -60,4 +60,10 @@ class ListSuite extends FunSuite {
   test("partition") {
     assert(partition(ListNode(1, ListNode(4, ListNode(3, ListNode(2, ListNode(5, ListNode(2)))))), 3).toString == "1,2,2,4,3,5")
   }
+  
+  test("isPalindrome") {
+    assert(isPalindrome(ListNode(1, ListNode(2, ListNode(3, ListNode(2, ListNode(1)))))))
+    assert(!isPalindrome(ListNode(1, ListNode(1, ListNode(3, ListNode(2, ListNode(1)))))))
+    assert(isPalindrome(ListNode(1, ListNode(2, ListNode(2, ListNode(1))))))
+  }
 }

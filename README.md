@@ -78,6 +78,7 @@ It is a set of rules that precisely define a sequence of operations.
     * [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
     * [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
     * **M&nbsp;**[Partition List](https://leetcode.com/problems/partition-list/)
+    * **E&nbsp;**[Palindrome Linked List](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/list#palindrome-linked-list)
 * **Math**
     * [Sqrt](https://leetcode.com/problems/sqrtx/)
     * [Pow](https://leetcode.com/problems/powx-n/)

@@ -154,4 +154,33 @@ object List {
     smaller.next
   }
   
+  /**
+    * https://leetcode.com/problems/palindrome-linked-list/
+    * @param head
+    * @return
+    */
+  def isPalindrome(head: ListNode): Boolean = {
+    var len = 0
+    var p = head
+    while(p != null) {
+      len += 1
+      p = p.next
+    }
+    var cur: ListNode = head
+    var pre: ListNode = null
+    for (_ <- 0 until len / 2) {
+      val nex = cur.next
+      cur.next = pre
+      pre = cur
+      cur = nex
+    }
+    if (len % 2 == 1) cur = cur.next
+    while(pre != null && cur != null) {
+      if (pre.elem != cur.elem) return false
+      pre = pre.next
+      cur = cur.next
+    }
+    true
+  }
+  
 }
