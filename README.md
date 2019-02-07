@@ -49,6 +49,7 @@ It is a set of rules that precisely define a sequence of operations.
     * [Missing Number](https://leetcode.com/problems/missing-number/)
     * [Subsets](https://leetcode.com/problems/subsets)
     * **M&nbsp;**[Sum of Two Integers](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/bit#sum-of-two-integers)
+    * **M&nbsp;**[Single Element in a Sorted Array](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/bit#single-element-in-a-sorted-array)
 * **[Dynamic Programming](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp)**
     * [Word Break](https://leetcode.com/problems/word-break/)
     * [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
