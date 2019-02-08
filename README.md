@@ -61,6 +61,7 @@ It is a set of rules that precisely define a sequence of operations.
     * **M&nbsp;**[Counting Bits](https://leetcode.com/problems/counting-bits/)
     * **M&nbsp;**[Unique Paths](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#unique-paths)
     * **M&nbsp;**[Unique Paths II](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#unique-paths-ii)
+    * **E&nbsp;**[House Robber](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#house-robber)
 * **[Greedy](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/greedy)**
     * [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
