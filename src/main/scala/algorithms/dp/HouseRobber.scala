@@ -14,15 +14,12 @@ object HouseRobber {
   }
   
   def robII(nums: Array[Int]): Int = {
-    if (nums.isEmpty) return 0
-    if (nums.length == 1) return nums.head
-    var prev1 = nums(0)
-    var prev2 = Math.max(nums(1), nums(0))
-    for (i <- 2 until nums.length) {
+    var prev1 = 0
+    var prev2 = 0
+    for (i <- nums.indices) {
       val t = prev2
       prev2 = Math.max(prev2, prev1 + nums(i))
       prev1 = t
-      
     }
     prev2
   }
