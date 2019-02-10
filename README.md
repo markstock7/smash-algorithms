@@ -63,6 +63,7 @@ It is a set of rules that precisely define a sequence of operations.
     * **M&nbsp;**[Unique Paths II](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#unique-paths-ii)
     * **E&nbsp;**[House Robber](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#house-robber)
     * **E&nbsp;**[House Robber II](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#house-robber-ii)
+    * **E&nbsp;**[Maximum Subarray](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#maximum-subarray)
 * **[Greedy](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/greedy)**
     * [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
