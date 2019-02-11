@@ -64,6 +64,7 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[House Robber](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#house-robber)
     * **E&nbsp;**[House Robber II](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#house-robber-ii)
     * **E&nbsp;**[Maximum Subarray](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#maximum-subarray)
+    * **M&nbsp;**[Longest Palindromic Substring](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#longest-palindromic-substring)
 * **[Greedy](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/greedy)**
     * [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Jump Game II](https://leetcode.com/problems/jump-game-ii/)

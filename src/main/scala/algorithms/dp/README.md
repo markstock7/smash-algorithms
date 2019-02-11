@@ -195,3 +195,21 @@ Input: [-2,1,-3,4,-1,2,1,-5,4],
 Output: 6
 Explanation: [4,-1,2,1] has the largest sum = 6.
 ```
+
+#### Longest Palindromic Substring
+[[LeetCode]](https://leetcode.com/problems/longest-palindromic-substring/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/dp/LongestPalindromicSubstring.scala#L4)
+
+Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
+
+Example 1:
+```
+Input: "babad"
+Output: "bab"
+Note: "aba" is also a valid answer.
+```
+Example 2:
+```
+Input: "cbbd"
+Output: "bb"
+```
