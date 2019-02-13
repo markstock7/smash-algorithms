@@ -66,6 +66,7 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[Maximum Subarray](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#maximum-subarray)
     * **M&nbsp;**[Longest Palindromic Substring](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#longest-palindromic-substring)
     * **E&nbsp;**[Climbing Stairs](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#climbing-stairs)
+    * **E&nbsp;**[Best Time to Buy and Sell Stock](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#best-time-to-buy-and-sell-stock)
 * **[Greedy](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/greedy)**
     * [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
