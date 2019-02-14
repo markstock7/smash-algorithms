@@ -68,6 +68,7 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[Climbing Stairs](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#climbing-stairs)
     * **E&nbsp;**[Best Time to Buy and Sell Stock](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#best-time-to-buy-and-sell-stock)
     * **M&nbsp;**[Coin Change II](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#coin-change-ii)
+    * **M&nbsp;**[Coin Change](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#coin-change)
 * **[Greedy](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/greedy)**
     * [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
