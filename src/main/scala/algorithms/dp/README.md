@@ -329,3 +329,16 @@ Input: cost = [1, 100, 1, 1, 1, 100, 1, 1, 100, 1]
 Output: 6
 Explanation: Cheapest is start on cost[0], and only step on 1s, skipping cost[3].
 ```
+
+#### Longest Increasing Subsequence
+[[LeetCode]](https://leetcode.com/problems/longest-increasing-subsequence/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/dp/LongestIncreasingSubsequence.scala#L4)
+
+Given an unsorted array of integers, find the length of longest increasing subsequence.
+
+Example:
+```
+Input: [10,9,2,5,3,7,101,18]
+Output: 4 
+Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4.
+``` 

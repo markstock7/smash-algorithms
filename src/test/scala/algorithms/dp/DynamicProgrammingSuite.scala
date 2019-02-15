@@ -14,4 +14,12 @@ class DynamicProgrammingSuite extends FunSuite {
     assert(solution(Array()) == 0, "")
     assert(solution(Array(3)) == 3, "3")
   }
+  
+  test("Longest Increasing Subsequence") {
+    import LongestIncreasingSubsequence._
+    assert(solution(Array(10,9,2,5,3,7,101,18)) == 4, "10, 15, 2010,9,2,5,3,7,101,18")
+    assert(solution(Array(1, 8, 2, 6, 4, 5)) == 4, "1, 8, 2, 6, 4, 5")
+    assert(solutionBs(Array(10,9,2,5,3,7,101,18)) == 4, "10, 15, 2010,9,2,5,3,7,101,18")
+    assert(solutionBs(Array(1, 8, 2, 6, 4, 5)) == 4, "1, 8, 2, 6, 4, 5")
+  }
 }
