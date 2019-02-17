@@ -50,4 +50,24 @@ class TreeSuite extends FunSuite {
 		assert(isSameTree(tree2, tree2))
 		assert(isSameTree(tree3, tree3))
 	}
+
+	test("Minimum Depth of Binary Tree") {
+		import MinimumDepthofBinaryTree._
+		val tree1 = TreeNode(
+			1,
+			TreeNode(2, TreeNode(8), TreeNode(16)),
+			TreeNode(4)
+		)
+		val tree2 = TreeNode(
+			2,
+			TreeNode(8),
+			TreeNode(16)
+		)
+		val tree3 = TreeNode(
+			2
+		)
+		assert(minDepth(tree1) == 2)
+		assert(minDepth(tree2) == 2)
+		assert(minDepth(tree3) == 1)
+	}
 }

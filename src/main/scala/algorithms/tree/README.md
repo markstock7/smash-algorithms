@@ -101,3 +101,25 @@ Input:     1         1
 
 Output: true
 ```
+
+#### Minimum Depth of Binary Tree
+[[LeetCode]](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree/MinimumDepthofBinaryTree.scala#L4)
+
+Given a binary tree, find its minimum depth.
+
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+
+Note: A leaf is a node with no children.
+
+Example:
+
+Given binary tree [3,9,20,null,null,15,7],
+```
+    3
+   / \
+  9  20
+    /  \
+   15   7
+return its minimum depth = 2.
+```
