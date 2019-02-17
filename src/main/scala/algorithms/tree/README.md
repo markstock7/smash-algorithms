@@ -81,3 +81,23 @@ But the following [1,2,2,null,3,null,3] is not:
    \   \
    3    3
 ```
+
+#### Same Tree
+
+[[LeetCode]](https://leetcode.com/problems/same-tree/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree/SameTree.scala#L4)
+
+Given two binary trees, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
+
+Example 1:
+```
+Input:     1         1
+          / \       / \
+         2   3     2   3
+
+        [1,2,3],   [1,2,3]
+
+Output: true
+```

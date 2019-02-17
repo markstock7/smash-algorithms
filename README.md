@@ -104,6 +104,8 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[Subtree of Another Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#subtree-of-another-tree)
     * **E&nbsp;**[Path Sum](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#path-sum)
     * **E&nbsp;**[Symmetric Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#symmetric-tree)
-        
+    * **E&nbsp;**[Same Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#same-tree)
+            
+            
     
-    
+   
