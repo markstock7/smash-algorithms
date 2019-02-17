@@ -70,4 +70,24 @@ class TreeSuite extends FunSuite {
 		assert(minDepth(tree2) == 2)
 		assert(minDepth(tree3) == 1)
 	}
+
+	test("Maximum Depth of Binary Tree") {
+		import MaximumDepthofBinaryTree._
+		val tree1 = TreeNode(
+			1,
+			TreeNode(2, TreeNode(8), TreeNode(16)),
+			TreeNode(4)
+		)
+		val tree2 = TreeNode(
+			2,
+			TreeNode(8),
+			TreeNode(16)
+		)
+		val tree3 = TreeNode(
+			2
+		)
+		assert(maxDepth(tree1) == 3)
+		assert(maxDepth(tree2) == 2)
+		assert(maxDepth(tree3) == 1)
+	}
 }
