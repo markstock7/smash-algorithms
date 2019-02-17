@@ -66,4 +66,11 @@ class ListSuite extends FunSuite {
     assert(!isPalindrome(ListNode(1, ListNode(1, ListNode(3, ListNode(2, ListNode(1)))))))
     assert(isPalindrome(ListNode(1, ListNode(2, ListNode(2, ListNode(1))))))
   }
+
+  test("Merge Two Sorted Lists") {
+    import MergeTwoSortedLists._
+    val l1 = ListNode(1, ListNode(2, ListNode(4)))
+    val l2 = ListNode(1, ListNode(3, ListNode(4)))
+    assert(mergeTwoLists(l1, l2).toString == "1,1,2,3,4,4")
+  }
 }

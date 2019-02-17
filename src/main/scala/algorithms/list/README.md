@@ -17,3 +17,15 @@ Example 2:
 Input: 1->2->2->1
 Output: true
 ```
+
+#### Merge Two Sorted Lists
+[[LeetCode]](https://leetcode.com/problems/merge-two-sorted-lists/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/list/MergeTwoSortedLists.scala#L4)
+
+Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+
+Example:
+```
+Input: 1->2->4, 1->3->4
+Output: 1->1->2->3->4->4
+```
