@@ -90,4 +90,14 @@ class TreeSuite extends FunSuite {
 		assert(maxDepth(tree2) == 2)
 		assert(maxDepth(tree3) == 1)
 	}
+
+	test("Binary TreeLevel Order Traversal II") {
+		import BinaryTreeLevelOrderTraversalII._
+		val tree = TreeNode(
+			3,
+			TreeNode(9),
+			TreeNode(20, TreeNode(15), TreeNode(7))
+		)
+		assert(levelOrderBottom(tree).map(_.mkString(",")).mkString(",") == "15,7,9,20,3")
+	}
 }

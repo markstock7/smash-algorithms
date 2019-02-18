@@ -73,4 +73,12 @@ class ListSuite extends FunSuite {
     val l2 = ListNode(1, ListNode(3, ListNode(4)))
     assert(mergeTwoLists(l1, l2).toString == "1,1,2,3,4,4")
   }
+
+  test("Linked List Cycle") {
+    import LinkedListCycle._
+    val l1 = ListNode(1, ListNode(2, ListNode(4)))
+    assert(!hasCycle(l1))
+    l1.next.next.next = l1
+    assert(hasCycle(l1))
+  }
 }

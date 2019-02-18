@@ -92,6 +92,8 @@ It is a set of rules that precisely define a sequence of operations.
     * **M&nbsp;**[Partition List](https://leetcode.com/problems/partition-list/)
     * **E&nbsp;**[Palindrome Linked List](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/list#palindrome-linked-list)
     * **E&nbsp;**[Merge Two Sorted Lists](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/list#merge-two-sorted-lists)
+    * **E&nbsp;**[Linked List Cycle](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/list#linked-list-cycle)
+    
 * **Math**
     * [Sqrt](https://leetcode.com/problems/sqrtx/)
     * [Pow](https://leetcode.com/problems/powx-n/)
@@ -108,3 +110,5 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[Same Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#same-tree)
     * **E&nbsp;**[Minimum Depth of Binary Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#minimum-depth-of-binary-tree)
     * **E&nbsp;**[Maximum Depth of Binary Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#maximum-depth-of-binary-tree)
+    * **E&nbsp;**[Binary Tree Level Order Traversal II](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#binary-tree-level-order-traversal-ii)
+
