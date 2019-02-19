@@ -18,4 +18,11 @@ class ArraySuite extends FunSuite {
 		assert(searchInsert(Array(1,3,5,6), 5) == 2)
 		assert(searchInsert(Array(), 5) == -1)
 	}
+
+	test("Move Zeroes") {
+		import MoveZeroes._
+		val array = Array(0,1,0,3,12)
+		solution(array)
+		assert(array sameElements Array(1,3,12,0,0))
+	}
 }

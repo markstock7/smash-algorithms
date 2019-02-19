@@ -87,3 +87,15 @@ Input: nums = [-1,0,3,5,9,12], target = 9
 Output: 4
 Explanation: 9 exists in nums and its index is 4
 ```
+
+### Move Zeroes 
+[[Leetcode]](https://leetcode.com/problems/move-zeroes/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/array/MoveZeroes.scala#L4)
+
+Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Example:
+```
+Input: [0,1,0,3,12]
+Output: [1,3,12,0,0]
+```

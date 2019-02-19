@@ -38,7 +38,8 @@ It is a set of rules that precisely define a sequence of operations.
     * **E &nbsp;**[Majority Element](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/array#majority-element)
     * **E &nbsp;**[Merge Sorted Array](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/array#merge-sorted-array)
     * **E &nbsp;**[Search Insert Position](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/array#search-pnsert-position)
-    * **E &nbsp;**[Binary Search](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/array#binary-search)   
+    * **E &nbsp;**[Binary Search](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/array#binary-search) 
+    * **E &nbsp;**[Move Zeroes](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/array#move-zeroes)   
 * **Backtracking**
     * [Combination Sum](https://leetcode.com/problems/combination-sum)
     * [Subsets](https://leetcode.com/problems/subsets)
