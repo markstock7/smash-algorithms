@@ -59,3 +59,31 @@ nums2 = [2,5,6],       n = 3
 
 Output: [1,2,2,3,5,6]
 ```
+
+#### Search Insert Position
+[[LeetCode]](https://leetcode.com/problems/search-insert-position/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/array/SearchInsertPosition.scala#L4)
+
+Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+You may assume no duplicates in the array.
+
+Example 1:
+```
+Input: [1,3,5,6], 5
+Output: 2
+```
+
+### Binary Search
+[[Leetcode]](https://leetcode.com/problems/binary-search/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/array/BinarySearch.scala#L4)
+
+Given a sorted (in ascending order) integer array nums of n elements and a target value, write a function to search target in nums. If target exists, then return its index, otherwise return -1.
+
+
+Example 1:
+```
+Input: nums = [-1,0,3,5,9,12], target = 9
+Output: 4
+Explanation: 9 exists in nums and its index is 4
+```
