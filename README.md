@@ -114,4 +114,6 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[Minimum Depth of Binary Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#minimum-depth-of-binary-tree)
     * **E&nbsp;**[Maximum Depth of Binary Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#maximum-depth-of-binary-tree)
     * **E&nbsp;**[Binary Tree Level Order Traversal II](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#binary-tree-level-order-traversal-ii)
+    * **E&nbsp;**[Invert Binary Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#invert-binary-tree)
+
 

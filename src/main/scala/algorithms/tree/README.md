@@ -168,3 +168,27 @@ return its bottom-up level order traversal as:
   [3]
 ]
 ```
+
+#### Invert Binary Tree
+[[LeetCode]](https://leetcode.com/problems/invert-binary-tree/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree/InvertTree.scala#L4)
+
+Invert a binary tree.
+
+Example:
+```
+Input:
+
+     4
+   /   \
+  2     7
+ / \   / \
+1   3 6   9
+Output:
+
+     4
+   /   \
+  7     2
+ / \   / \
+9   6 3   1
+```

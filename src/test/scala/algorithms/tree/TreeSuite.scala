@@ -100,4 +100,14 @@ class TreeSuite extends FunSuite {
 		)
 		assert(levelOrderBottom(tree).map(_.mkString(",")).mkString(",") == "15,7,9,20,3")
 	}
+
+	test("Invert Tree") {
+		import InvertTree.invertTree
+		val tree = TreeNode(
+			3,
+			TreeNode(9),
+			TreeNode(20, TreeNode(15), TreeNode(7))
+		)
+		assert(invertTree(tree).toString == "7,20,15,3,9")
+	}
 }
