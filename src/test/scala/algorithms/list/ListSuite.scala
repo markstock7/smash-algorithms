@@ -81,4 +81,10 @@ class ListSuite extends FunSuite {
     l1.next.next.next = l1
     assert(hasCycle(l1))
   }
+
+  test("Remove Duplicates From Sorted List") {
+    import RemoveDuplicatesFromSortedList.deleteDuplicates
+    val l1 = ListNode(1, ListNode(1, ListNode(4)))
+    assert(deleteDuplicates(l1).toString == "1,4")
+  }
 }

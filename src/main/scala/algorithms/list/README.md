@@ -46,4 +46,17 @@ Input: head = [3,2,0,-4], pos = 1
 Output: true
 Explanation: There is a cycle in the linked list, where tail connects to the second node.
 ```
-![alt tag](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png) 
+![alt tag](https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png)
+
+#### Remove Duplicates from Sorted List
+
+[[LeetCode]](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/list/RemoveDuplicatesFromSortedList.scala#L4)
+
+Given a sorted linked list, delete all duplicates such that each element appear only once.
+
+Example 1:
+```
+Input: 1->1->2
+Output: 1->2
+``` 

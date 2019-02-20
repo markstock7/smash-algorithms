@@ -96,7 +96,8 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[Palindrome Linked List](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/list#palindrome-linked-list)
     * **E&nbsp;**[Merge Two Sorted Lists](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/list#merge-two-sorted-lists)
     * **E&nbsp;**[Linked List Cycle](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/list#linked-list-cycle)
-    
+    * **E&nbsp;**[Remove Duplicates from Sorted List](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/list#Remove-Duplicates-from-Sorted-List)
+        
 * **Math**
     * [Sqrt](https://leetcode.com/problems/sqrtx/)
     * [Pow](https://leetcode.com/problems/powx-n/)
