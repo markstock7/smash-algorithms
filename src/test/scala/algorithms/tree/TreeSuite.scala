@@ -110,4 +110,30 @@ class TreeSuite extends FunSuite {
 		)
 		assert(invertTree(tree).toString == "7,20,15,3,9")
 	}
+
+	test("Balanced Binary Tree") {
+		import BalancedBinaryTree._
+		val balancedTree = TreeNode(
+			3,
+			TreeNode(9),
+			TreeNode(20, TreeNode(15), TreeNode(7))
+		)
+		val unBalancedTree = TreeNode(
+			1,
+			TreeNode(
+				2,
+				TreeNode(
+					3,
+					TreeNode(4),
+					TreeNode(4)
+				),
+				TreeNode(3)
+			),
+			TreeNode(2)
+		)
+		assert(isBalancedTopDown(balancedTree), "isBalancedTopDown")
+		assert(isBalancedBottomUp(balancedTree), "isBalancedBottomUp")
+		assert(!isBalancedTopDown(unBalancedTree), "isBalancedTopDown")
+		assert(!isBalancedBottomUp(unBalancedTree), "isBalancedBottomUp")
+	}
 }
