@@ -192,3 +192,27 @@ Output:
  / \   / \
 9   6 3   1
 ```
+
+#### Search in a Binary Search Tree
+[[LeetCode]](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree/SearchInABinarySearchTree.scala#L4)
+
+Given the root node of a binary search tree (BST) and a value. You need to find the node in the BST that the node's value equals the given value. Return the subtree rooted with that node. If such node doesn't exist, you should return NULL.
+
+For example, 
+
+Given the tree:
+```
+        4
+       / \
+      2   7
+     / \
+    1   3
+```
+And the value to search: 2
+You should return this subtree:
+```
+      2     
+     / \   
+    1   3
+```

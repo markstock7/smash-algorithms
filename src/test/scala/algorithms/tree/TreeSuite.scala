@@ -136,4 +136,19 @@ class TreeSuite extends FunSuite {
 		assert(!isBalancedTopDown(unBalancedTree), "isBalancedTopDown")
 		assert(!isBalancedBottomUp(unBalancedTree), "isBalancedBottomUp")
 	}
+
+	test("SearchInABinarySearchTree") {
+		import SearchInABinarySearchTree.searchBST
+		val tree = TreeNode(
+			4,
+			TreeNode(
+				2,
+				TreeNode(1),
+				TreeNode(3)
+			),
+			TreeNode(7)
+		)
+		assert(searchBST(tree, 2).toString == "1,2,3")
+		assert(searchBST(tree, 0)  == null)
+	}
 }
