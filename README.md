@@ -107,6 +107,8 @@ It is a set of rules that precisely define a sequence of operations.
     * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
     * [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
     * [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+    * **E&nbsp;**[Longest Palindrome](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/string#longest-palindrome)
+
 * **[Tree](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/tree)**
     * **E&nbsp;**[Subtree of Another Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#subtree-of-another-tree)
     * **E&nbsp;**[Path Sum](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#path-sum)

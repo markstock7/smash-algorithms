@@ -14,4 +14,10 @@ class StringSuite extends FunSuite {
 //		assert(solution("abcabcbb") == 3)
 //	}
 
+	test("LongestPalindrome") {
+		import LongestPalindrome.solution
+		assert(solution("civilwartestingwhetherthmldof") == 17)
+		assert(solution("abccccdd") == 7)
+		assert(solution("") == 0)
+	}
 }
