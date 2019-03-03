@@ -4,7 +4,7 @@
 
 #### Longest Palindrome
 [[LeetCode]](https://leetcode.com/problems/longest-palindrome/)
-[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree/LongestPalindrome.scala#L4)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/string/LongestPalindrome.scala#L4)
 
 Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters.
 
