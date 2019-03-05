@@ -120,5 +120,6 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[Invert Binary Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#invert-binary-tree)
     * **E&nbsp;**[Search in a Binary Search Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#search-in-a-binary-search-tree)
 
-
+* **[Unclassified](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/unclassified)**
+    * **M&nbsp;**[Search a 2D Matrix II](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/unclassified#search-a-2d-matrix-ii)
 
