@@ -18,4 +18,5 @@ case class TreeNode(
 
 object TreeNode {
   def apply(elem: Int): TreeNode = TreeNode(elem, null, null)
+  def apply(elem: Int, left: TreeNode): TreeNode = TreeNode(elem, left, null)
 }

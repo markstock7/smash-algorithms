@@ -3,6 +3,7 @@ package algorithms.tree
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
+import utils.Helper
 
 @RunWith(classOf[JUnitRunner])
 class TreeSuite extends FunSuite {
@@ -156,6 +157,48 @@ class TreeSuite extends FunSuite {
 		import BuildBinarySearchTree.sortedArrayToBST
 		assert(BalancedBinaryTree.isBalancedBottomUp(sortedArrayToBST(Array(-10,-3,0,5,9))))
 		assert(BalancedBinaryTree.isBalancedBottomUp(sortedArrayToBST(Array(1, 2, 4, 8, 16))))
+	}
 
+	test("PathSumII") {
+		import PathSumII.pathSum
+
+		val tree = TreeNode(
+			5,
+			TreeNode(
+				4,
+				TreeNode(
+					11,
+					TreeNode(7),
+					TreeNode(2)
+				)
+			),
+			TreeNode(
+				8,
+				TreeNode(13),
+				TreeNode(
+					4,
+					TreeNode(5),
+					TreeNode(1)
+				)
+			)
+		)
+
+		assert(pathSum(tree, 22).map(_.sum).mkString(",") == "22,22")
+
+	}
+
+	test("Binary Tree Level Order") {
+		import BinaryTreeLevelOrderTraversal.levelOrder
+		val tree = TreeNode(
+			4,
+			TreeNode(
+				2,
+				TreeNode(1),
+				TreeNode(3)
+			),
+			TreeNode(7)
+		)
+
+		assert(Helper.llcompare(levelOrder(tree), List(List(4), List(2,7), List(1,3))))
 	}
 }
