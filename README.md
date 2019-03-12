@@ -122,7 +122,7 @@ It is a set of rules that precisely define a sequence of operations.
     * **E&nbsp;**[Build Binary Search Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#build-binary-search-tree)
     * **M&nbsp;**[Path Sum II](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#path-sum-ii)
     * **M&nbsp;**[Binary Tree Level Order Traversal](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#binary-tree-level-order-traversal)
-
+    * **M&nbsp;**[Pre Order](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#pre-order)
 
 
 * **[Unclassified](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/unclassified)**

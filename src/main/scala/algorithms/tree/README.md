@@ -269,7 +269,6 @@ Return:
 ```
 
 #### Binary Tree Level Order Traversal
-
 [[LeetCode]](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 [[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree/BinaryTreeLevelOrder.scala#L4)
 
@@ -292,3 +291,21 @@ return its level order traversal as:
   [15,7]
 ]
 ```
+
+##### Binary Tree Preorder Traversal
+[[LeetCode]](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree/PreOrder.scala#L4)
+
+
+Given a binary tree, return the preorder traversal of its nodes' values.
+
+Example:
+```
+Input: [1,null,2,3]
+   1
+    \
+     2
+    /
+   3
+```
+Output: [1,2,3]

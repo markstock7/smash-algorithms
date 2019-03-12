@@ -201,4 +201,20 @@ class TreeSuite extends FunSuite {
 
 		assert(Helper.llcompare(levelOrder(tree), List(List(4), List(2,7), List(1,3))))
 	}
+
+	test("Pre Order") {
+		import PreOrder.solution
+
+		val tree = TreeNode(
+			4,
+			TreeNode(
+				2,
+				TreeNode(1),
+				TreeNode(3)
+			),
+			TreeNode(7)
+		)
+
+		assert(Helper.lcompare(solution(tree), List(4,2,1,3,7)))
+	}
 }
