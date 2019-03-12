@@ -151,4 +151,11 @@ class TreeSuite extends FunSuite {
 		assert(searchBST(tree, 2).toString == "1,2,3")
 		assert(searchBST(tree, 0)  == null)
 	}
+
+	test("Build Binary Search Tree") {
+		import BuildBinarySearchTree.sortedArrayToBST
+		assert(BalancedBinaryTree.isBalancedBottomUp(sortedArrayToBST(Array(-10,-3,0,5,9))))
+		assert(BalancedBinaryTree.isBalancedBottomUp(sortedArrayToBST(Array(1, 2, 4, 8, 16))))
+
+	}
 }
