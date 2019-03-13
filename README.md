@@ -74,7 +74,8 @@ It is a set of rules that precisely define a sequence of operations.
     * **M&nbsp;**[Coin Change](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#coin-change)
     * **M&nbsp;**[Min Cost Climbing Stairs](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#min-cost-climbing-stairs)
     * **M&nbsp;**[Longest Increasing Subsequence](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#longest-increasing-subsequence)
-    
+    * **M&nbsp;**[Maximum Product Subarray](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/dp#maximum-product-subarray)
+
 * **[Greedy](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/greedy)**
     * [Jump Game](https://leetcode.com/problems/jump-game/)
     * [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
