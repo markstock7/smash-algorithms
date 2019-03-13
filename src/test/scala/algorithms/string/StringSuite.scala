@@ -20,4 +20,10 @@ class StringSuite extends FunSuite {
 		assert(solution("abccccdd") == 7)
 		assert(solution("") == 0)
 	}
+
+	test("First Unique Character In A String") {
+		import algorithms.string.FirstUniqueCharacterInAString.firstUniqChar
+		assert(firstUniqChar("leetcode") == 0)
+		assert(firstUniqChar("loveleetcode") == 2)
+	}
 }

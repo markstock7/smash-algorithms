@@ -24,3 +24,18 @@ Output:
 Explanation:
 One longest palindrome that can be built is "dccaccd", whose length is 7.
 ```
+
+#### First Unique Character In A String
+[[LeetCode]](https://leetcode.com/problems/first-unique-character-in-a-string/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/string/FirstUniqueCharacterInAString.scala#L4)
+
+Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+
+Examples:
+```
+s = "leetcode"
+return 0.
+
+s = "loveleetcode",
+return 2.
+```

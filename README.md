@@ -109,6 +109,9 @@ It is a set of rules that precisely define a sequence of operations.
     * [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
     * [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
     * **E&nbsp;**[Longest Palindrome](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/string#longest-palindrome)
+    * **E&nbsp;**[First Unique Character In A String](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/string#first-unique-character-in-a-string)
+
+
 
 * **[Tree](https://github.com/markstock7/smash-algorithms/tree/master/src/main/scala/algorithms/tree)**
     * **E&nbsp;**[Subtree of Another Tree](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/tree#subtree-of-another-tree)
