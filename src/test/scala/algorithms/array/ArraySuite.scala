@@ -25,4 +25,11 @@ class ArraySuite extends FunSuite {
 		solution(array)
 		assert(array sameElements Array(1,3,12,0,0))
 	}
+
+	test("Find Minimum in Rotated Sorted Array") {
+		import FindMinimumInRotatedSortedArray.findMin
+
+		assert(findMin(Array(3,4,5,1,2)) == 1)
+		assert(findMin(Array(4,5,6,7,0,1,2)) == 0)
+	}
 }

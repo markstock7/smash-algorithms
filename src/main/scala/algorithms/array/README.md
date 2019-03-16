@@ -74,7 +74,7 @@ Input: [1,3,5,6], 5
 Output: 2
 ```
 
-### Binary Search
+#### Binary Search
 [[Leetcode]](https://leetcode.com/problems/binary-search/)
 [[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/array/BinarySearch.scala#L4)
 
@@ -88,7 +88,7 @@ Output: 4
 Explanation: 9 exists in nums and its index is 4
 ```
 
-### Move Zeroes 
+#### Move Zeroes
 [[Leetcode]](https://leetcode.com/problems/move-zeroes/)
 [[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/array/MoveZeroes.scala#L4)
 
@@ -98,4 +98,23 @@ Example:
 ```
 Input: [0,1,0,3,12]
 Output: [1,3,12,0,0]
+```
+
+#### Find Minimum in Rotated Sorted Array
+
+[[Leetcode]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+[[Code]](https://github.com/markstock7/smash-algorithms/blob/master/src/main/scala/algorithms/array/FindMinimumInRotatedSortedArray.scala#L4)
+
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
+
+(i.e.,  [0,1,2,4,5,6,7] might become  [4,5,6,7,0,1,2]).
+
+Find the minimum element.
+
+You may assume no duplicate exists in the array.
+
+Example 1:
+```
+Input: [3,4,5,1,2]
+Output: 1
 ```
